@@ -1,8 +1,8 @@
-import About from './components/about'
-import Hero from './components/hero';
-import Navbar from "./components/Navbar";
-import Technologies from './components/Technologies';
-import Contact from './components/contact';
+import About from './components/about';
+import Hero from "./components/hero"
+import Navbar from "./components/navbar";
+import Technologies from "./components/technologies";
+import Contact from "./components/contact";
 
 const App = () => {
 return(

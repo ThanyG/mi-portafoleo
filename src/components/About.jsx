@@ -1,4 +1,4 @@
-import aboutImg from '../assets/assets/projects/About.png'
+import aboutImg from '../assets/assets/projects/Thania-about.png'
 import { ABOUT_TEXT } from '../constants';
 import { motion } from "framer-motion";
 const About = () => {
